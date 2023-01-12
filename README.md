@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamrul Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" all="Coding width="400" src="https://stories.freepiklabs.com/storage/31942/programmer-cuate-3920.png">
+<img align="right" all="Coding width="250" src="https://stories.freepiklabs.com/storage/31942/programmer-cuate-3920.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderkamrul0&label=Profile%20views&color=0e75b6&style=flat" alt="coderkamrul0" /> </p>
 
