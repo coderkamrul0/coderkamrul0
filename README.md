@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻Hi, I'm Kamrul Hasan👨‍💻<br>👨‍💻Full-Stack Developer from Bangladesh👨‍💻
+👨‍💻Hi, I'm Kamrul Hasan👨‍💻<br>👨‍🚀Front End Developer | React, Javascript | Crafting Responsive, User-Centric Interfaces | Collaborative Team Player | Passionate About Emerging Technologies👨‍💻
 
 
 ## 🌐 Socials:
