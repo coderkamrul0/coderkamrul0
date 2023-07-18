@@ -1,5 +1,4 @@
-# 💫 About Me:
-👨‍💻Hi, I'm Kamrul Hasan👨‍💻<br>👨‍🚀Front End Developer | React, Javascript | Crafting Responsive, User-Centric Interfaces | Collaborative Team Player | Passionate About Emerging Technologies👨‍💻
+💻Front End Developer | React, Javascript | Expertise in MongoDB & Node JS | Dynamic Web Applications | Collaborative Team Player | Passionate About Crafting Exceptional User Experiences | Let's Build Something Awesome🚀
 
 
 ## 🌐 Socials:
