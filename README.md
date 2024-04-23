@@ -68,7 +68,7 @@
 </p>
 
 
-<a href="https://gitroll.io/profile/uY9jESwNPPVORMDRCgOQkbkmWkMf1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uY9jESwNPPVORMDRCgOQkbkmWkMf1" alt="GitRoll Profile Badge"/></a>
+
 
 <br/>
 <br/>
@@ -100,6 +100,7 @@
   <a href="https://github.com/coderkamrul0"><img alt="Kamrul Hasan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=coderkamrul0&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+<a href="https://gitroll.io/profile/uY9jESwNPPVORMDRCgOQkbkmWkMf1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uY9jESwNPPVORMDRCgOQkbkmWkMf1" alt="GitRoll Profile Badge"/></a>
 
 
 
