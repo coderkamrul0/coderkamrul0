@@ -34,9 +34,9 @@
  <a href="https://www.linkedin.com/in/kamrulhasandev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kamrulhasandev"/>
  </a>
- <!-- <a href="https://dev.to/kamrulhasandev" target="_blank">
+ <a href="https://dev.to/kamrulhasandev" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="kamrulhasandev" />
- </a> -->
+ </a>
  <a href="https://www.instagram.com/kamrulhasandev/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="kamrulhasandev" />
  </a> 
@@ -123,7 +123,7 @@
   <a href="https://github.com/kamrulhasandev"><img alt="Kamrul Hasan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kamrulhasandev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-<a href="https://gitroll.io/profile/uY9jESwNPPVORMDRCgOQkbkmWkMf1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uY9jESwNPPVORMDRCgOQkbkmWkMf1" alt="GitRoll Profile Badge"/></a>
+
 
 
 
